@@ -1,0 +1,33 @@
+body {
+    background-color: #B7B7B7;
+    background-size: inherit;
+   
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+   
+}
+
+h3 {
+    color: #257180;
+    font-display: left;
+    font-family: serif;
+    
+    
+}
+
+h1:hover {
+    color: #257180;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #becebb;
+}
+
+h2 {
+    color: cornflowerblue;
+}
+
